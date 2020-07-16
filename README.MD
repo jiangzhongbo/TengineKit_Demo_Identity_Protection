@@ -265,7 +265,12 @@ trackingOverlay为定制的view，将canvas暴露出来用于画bitmap
 
 原图|结果
 :--:|:--:
-![face landmarks](./imgs/girl1.webp "face landmarks") | ![face landmarks](./imgs/girl2.webp "face landmarks")
+![demo](./imgs/girl1.webp "demo") | ![demo](./imgs/girl2.webp "demo")
+
+### Demo
+
+![demo](./imgs/demo.gif "demo")
+
 
 ### 参考
 
